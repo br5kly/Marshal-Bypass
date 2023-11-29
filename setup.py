@@ -81,3 +81,4 @@ python {self.execute} $argument
 ''')
         os.system(f"chmod +x {self.run}")
         print("\033[2;32m \n \n تم التثبيت بنجاح يمكنك الاستخدام بواسطة امر ZEYAD")
+Marshal_Setup()
