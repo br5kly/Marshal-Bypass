@@ -76,7 +76,6 @@ fi
 
 argument=$1
 
-# Your script logic using the argument
 python {self.execute} $argument         
 ''')
         os.system(f"chmod +x {self.run}")
